@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @SANTONLA
+- 👋 Hi, I’m @SANTONLAR
+
 - 👀 I’m interested in SQL, Matlab, R Studio; Github tips
 - 🌱 I’m currently learning how to do a CV on Github
 - 💞️ I’m looking to collaborate on BI projects.
