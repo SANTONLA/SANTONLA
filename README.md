@@ -2,7 +2,7 @@
 - 👀 I’m interested in SQL, Matlab, R Studio; Github tips
 - 🌱 I’m currently learning how to do a CV on Github
 - 💞️ I’m looking to collaborate on BI projects.
-- 📫 How to reach me. Just e-mail to: santonla@outlook.es
+- 📫 How to reach me. Just Twitter to: @santonlar
 
 <!---
 SANTONLA/SANTONLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
