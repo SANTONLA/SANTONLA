@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SANTONLAR
+- 👋 Hi, This is @SANTONLAR
 
 - 👀 I’m interested in SQL, Matlab, R Studio; Github tips.
 
