@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in SQL, Matlab, R Studio; Github tips.
 
-- 🌱 I’m currently practicing and preparing material on statistics and econometrics in R and  machine learning techniques
+- 🌱 I’m currently working on and preparing material about statistics and econometrics in R and  machine learning techniques
 such as regression models, classfication, logistic regression, k-means algorithm and
 tree-based models: random forest, neural networks, support vector machines.
 
