@@ -48,6 +48,6 @@ Power Bi
 
 GitHub
 
-<img src="{[([https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white))]}" />
+<img src="{[([[https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white](https://github-readme-stats.vercel.app/api/top-langs/?username={SANTONLAR})]}" />
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={SANTONLAR}
+
