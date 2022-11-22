@@ -46,8 +46,8 @@ Gretl
 
 Power Bi
 
-GitHub
-![image]({[https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white]})
+GitHub <img src="{https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white}" />
+
 
 
 
