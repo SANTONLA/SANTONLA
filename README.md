@@ -1,6 +1,6 @@
 - 👋 Hi, This is @SANTONLAR
 
-- 👀 I’m interested in SQL, Matlab, R Studio; Github tips.
+- 👀 I’m interested in SQL, Matlab, R Studio; Github; Machine learning tips.
 
 - 🌱 I’m currently working on and reading through material about statistics and econometrics in R and  machine learning techniques
 such as regression models, classfication, logistic regression, k-means algorithm and
