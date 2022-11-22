@@ -48,4 +48,4 @@ Power Bi
 
 GitHub
 
-<i class="devicon-devicon-plain-wordmark colored"></i>
+icons/github/github-original.svg
