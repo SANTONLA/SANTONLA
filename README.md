@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # WELCOME TO MY GITHUB PROFILE PAGE
 
-#ACADEMIC BACKGROUND
+## ACADEMIC BACKGROUND
 
 MSc in BUSINESS INTELLIGENCE
 
@@ -27,13 +27,13 @@ BACHELOR’S DEGREE IN BUSINESS ADMINISTRATION AND MANAGEMENT
 sep 2014 - oct 2018 UNIR, LOGROÑO
 
 
-# EXPERIENCE WITH R
+## EXPERIENCE WITH R
 
 Master Thesis: Optimization of the profit and loss account through quantitative techniques and machine learning from the perspective of Business Intelligence.
 
 The master was my first contact with a programming language. I keep learning and improving the different machine learning algorithms.
 
-# Experience with Other Analytic Software
+## Experience with Other Analytic Software
 I have experience and/or exposure to the following analytic software:
 
 SQL
