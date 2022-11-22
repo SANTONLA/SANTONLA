@@ -14,7 +14,7 @@ tree-based models: random forest, neural networks, support vector machines.
 SANTONLA/SANTONLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# WELCOME TO MY GITHUB WELCOME PAGE
+# WELCOME TO MY GITHUB PROFILE PAGE
 
 #ACADEMIC BACKGROUND
 
