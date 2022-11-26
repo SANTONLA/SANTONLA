@@ -48,9 +48,30 @@ The master was my first contact with a programming language. I keep learning and
 |<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>| SQL|
 || GITHUB|
 
-| <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>  | Show file differences that haven't been staged |
-|  | List all new or modified files |
-|  | Show file differences that haven't been staged |
+### DATA ANALYSIS
+| Command | Description |
+| --- | --- |
+|<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>|DATA WRANGLING|
+|<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>| EDA|
+
+
+### MACHINE LEARNING ALGORITHMS
+| Command | Description |
+| --- | --- |
+|<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>| CLASSIFICATION|
+|<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>| REGRESSION|
+|| GITHUB|
+| <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>  | CLUSTERING |
+
+
+### DATA VISUALIZATION
+| Command | Description |
+| --- | --- |
+|<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>| POWER BI|
+|<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>| MATLAB|
+
+
+
 | <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>| Show file differences that haven't been staged |
 | <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> | List all new or modified files |
 | <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> | Show file differences that haven't been staged |
