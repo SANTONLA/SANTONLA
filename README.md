@@ -33,19 +33,7 @@ Master Thesis: Optimization of the profit and loss account through quantitative 
 
 The master was my first contact with a programming language. I keep learning and improving the different machine learning algorithms.
 
-## LENGUAGES AND TOOLS
-I have experience and/or exposure to the following analytic software:
-
-SQL
-
-Matlab
-
-Gretl
-
-Power Bi
-
-GitHub 
-
+## BUSINESS INTELLIGENCE SKILLS
 
 
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
@@ -58,4 +46,4 @@ GitHub
 
 ## GITHUB STATS
 
-"https://github-readme-stats.vercel.app/api?username={username}"
+<img src="https://github-readme-stats.vercel.app/api?username={username}"/>
