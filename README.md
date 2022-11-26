@@ -46,4 +46,4 @@ The master was my first contact with a programming language. I keep learning and
 
 ## GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username={SANTONLAR}"/>
+<img src="https://github-readme-stats.vercel.app/api?username={SANTONLA}"/>
