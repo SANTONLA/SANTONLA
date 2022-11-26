@@ -37,8 +37,8 @@ The master was my first contact with a programming language. I keep learning and
 I have experience and/or exposure to the following analytic software:
 
 SQL
-<img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />
-R <img src="{[https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white]}" />
+
+R 
 
 Matlab
 
@@ -48,7 +48,7 @@ Power Bi
 
 GitHub 
 
-
+<img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />
 
 
 
