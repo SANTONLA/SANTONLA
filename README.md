@@ -41,6 +41,8 @@ The master was my first contact with a programming language. I keep learning and
 | 📊 | Statistics |
 | Calculus | Calculus|
 | Probability | Probability |
+
+### PROGRAMMING
 | <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> | List all new or modified files |
 | <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> | Show file differences that haven't been staged |
 | <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/> | List all new or modified files |
