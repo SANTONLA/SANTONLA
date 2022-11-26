@@ -40,7 +40,7 @@ The master was my first contact with a programming language. I keep learning and
 | --- | --- |
 | 📊 | Statistics |
 | 📚 | Calculus|
-| <img src= " PROBABILIDAD.png"/>| Probability |
+| 👨‍💻| Probability |
 ### PROGRAMMING
 | Command | Description |
 | --- | --- |
