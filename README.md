@@ -70,9 +70,10 @@ The master was my first contact with a programming language. I keep learning and
 || MATLAB|
 
 
-
-
-| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> | Show file differences that haven't been staged |
+### INTERESTING LINKS
+| Command | Description |
+| --- | --- |
+| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> |KAGGLE |
 
 
 
@@ -81,4 +82,4 @@ The master was my first contact with a programming language. I keep learning and
 
 ## GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?USERNAME={SANTONLA}">
+<img src="https://github-readme-stats.vercel.app/api?USERNAME={santonlar}">
