@@ -38,7 +38,7 @@ The master was my first contact with a programming language. I keep learning and
 ### MATHEMATICS
 | Command | Description |
 | --- | --- |
-| Statistics| Statistics |
+| 📊 | Statistics |
 | Calculus | Calculus|
 | Probability | Probability |
 | <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> | List all new or modified files |
