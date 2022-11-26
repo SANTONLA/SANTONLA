@@ -35,7 +35,7 @@ The master was my first contact with a programming language. I keep learning and
 
 ## BUSINESS INTELLIGENCE SKILLS
 
-
+https://github.com/SANTONLA/badges.md-Profile#-analytics-
 
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
