@@ -56,6 +56,6 @@ GitHub
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 
 
-##GITHUB STATS
+## GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username={username}"/>
+"https://github-readme-stats.vercel.app/api?username={username}"
