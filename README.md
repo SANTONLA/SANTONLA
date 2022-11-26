@@ -67,7 +67,7 @@ The master was my first contact with a programming language. I keep learning and
 | Command | Description |
 | --- | --- |
 |<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>| POWER BI|
-|| MATLAB|
+|<img src="https://github.com/SANTONLA/BADGES/blob/main/matlab.jpg"| MATLAB|
 
 
 ### INTERESTING LINKS
