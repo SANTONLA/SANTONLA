@@ -41,11 +41,15 @@ The master was my first contact with a programming language. I keep learning and
 | 📊 | Statistics |
 | Calculus | Calculus|
 | Probability | Probability |
+## PROGRAMMING
+| Command | Description |
+| --- | --- |
+| <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> | R |
+|<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>| SQL|
+|<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>| GITHUB|
 
-### PROGRAMMING
-| <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> | List all new or modified files |
-| <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> | Show file differences that haven't been staged |
-| <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/> | List all new or modified files |
+|  | Show file differences that haven't been staged |
+|  | List all new or modified files |
 | <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> | Show file differences that haven't been staged |
 | <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>| Show file differences that haven't been staged |
 | <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> | List all new or modified files |
