@@ -59,7 +59,7 @@ The master was my first contact with a programming language. I keep learning and
 | Command | Description |
 | --- | --- |
 || CLASSIFICATION|
-|regresion lineal_imagen.png| REGRESSION|
+|<IMG SRC="https://github.com/SANTONLA/BADGES/blob/main/regresion%20lineal_imagen.png"/>| REGRESSION|
 || CLUSTERING |
 
 
