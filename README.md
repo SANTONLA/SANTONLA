@@ -60,7 +60,7 @@ The master was my first contact with a programming language. I keep learning and
 | --- | --- |
 || CLASSIFICATION|
 || REGRESSION|
-|| CLUSTERING |
+|<img src="https://github.com/SANTONLA/BADGES/blob/main/hierarchical%20clustering.png"/>| CLUSTERING |
 
 
 ### DATA VISUALIZATION
