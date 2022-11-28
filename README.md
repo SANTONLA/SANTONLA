@@ -46,7 +46,7 @@ The master was my first contact with a programming language. I keep learning and
 | --- | --- |
 |<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>| R |
 |<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>| SQL|
-|| GITHUB|
+|<img src="github.png">| GITHUB|
 
 ### DATA ANALYSIS
 | Command | Description |
