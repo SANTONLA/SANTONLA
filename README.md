@@ -52,7 +52,7 @@ The master was my first contact with a programming language. I keep learning and
 | Command | Description |
 | --- | --- |
 |<img src="https://github.com/SANTONLA/BADGES/blob/main/data%20wrangling.png"/>|DATA WRANGLING|
-|<img src=""/>| EDA|
+|<img src="https://github.com/SANTONLA/BADGES/blob/main/EDA%20ANALYSIS.jpg"/>| EDA|
 |<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>| SAP|
 
 ### MACHINE LEARNING ALGORITHMS
