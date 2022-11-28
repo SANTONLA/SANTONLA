@@ -58,7 +58,7 @@ The master was my first contact with a programming language. I keep learning and
 ### MACHINE LEARNING ALGORITHMS
 | Command | Description |
 | --- | --- |
-|| CLASSIFICATION|
+|<img src="https://github.com/SANTONLA/BADGES/blob/main/SVM.jpg"/>| CLASSIFICATION|
 |<img src="https://github.com/SANTONLA/BADGES/blob/main/regresion%20lineal_imagen.png"/>| REGRESSION|
 |<img src="https://github.com/SANTONLA/BADGES/blob/main/hierarchical%20clustering.png"/>| CLUSTERING |
 
