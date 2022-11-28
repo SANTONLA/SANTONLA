@@ -82,4 +82,4 @@ The master was my first contact with a programming language. I keep learning and
 
 ## GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?USERNAME={"https://github.com/settings/profile[SANTONLAR](https://github.com/SANTONLA"}
+<img src="https://github.com/SANTONLA"/>
