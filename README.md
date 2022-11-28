@@ -51,7 +51,7 @@ The master was my first contact with a programming language. I keep learning and
 ### DATA ANALYSIS
 | Command | Description |
 | --- | --- |
-|<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>|DATA WRANGLING|
+|<img src=">|DATA WRANGLING|
 |<img src=""/>| EDA|
 |<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>| SAP|
 
