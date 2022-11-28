@@ -48,7 +48,7 @@ The master was my first contact with a programming language. I keep learning and
 |<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>| SQL|
 |<img src="https://github.com/SANTONLA/BADGES/blob/main/github.png"/>| GITHUB|
 |<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>| SAP|
-|<img src="https://github.com/SANTONLA/BADGES/blob/main/matlab.jpg/>| MATLAB|
+|<img src="https://github.com/SANTONLA/BADGES/blob/main/matlab.jpg"/>| MATLAB|
 
 ### DATA ANALYSIS
 | Command | Description |
