@@ -77,7 +77,6 @@ The master was my first contact with a programming language. I keep learning and
 | --- | --- |
 | <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> |KAGGLE |
 
-<img src="https://app.powerbi.com/links/cMF8WdHrX0?ctid=8c2d48da-af54-4dc5-8167-9982f9fad019&pbi_source=linkShare"/>
 
 
 
