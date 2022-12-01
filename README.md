@@ -3,7 +3,7 @@
 - 👀 I’m interested in SQL, Matlab, R Studio; Github; Machine learning tips.
 
 - 🌱 I’m currently working on and reading through material about statistics and econometrics in R and  machine learning techniques
-such as regression models, classfication, logistic regression, k-means algorithm and
+such as regression models, classification, logistic regression, k-means algorithm and
 tree-based models: random forest, neural networks, support vector machines.
 
 - 💞️ I’m looking to collaborate on R studio projects. 
