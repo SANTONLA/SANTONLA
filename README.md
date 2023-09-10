@@ -2,11 +2,9 @@
 
 - 👀 I’m interested in SQL, Matlab, R Studio; Github; Machine learning tips.
 
-- 🌱 I’m currently working on and reading through material about statistics and econometrics in R and  machine learning techniques
-such as regression models, classification, logistic regression, k-means algorithm and
-tree-based models: random forest, neural networks, support vector machines.
+- 🌱 I’m currently learning python. You will see some of my exercises in the repository.
 
-- 💞️ I’m looking to collaborate on R studio projects. 
+- 💞️ I’m looking to collaborate on R or python studio projects. 
 
 - 📫 How to reach me. Just send a Twitt to: @santonlar
 
