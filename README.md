@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning python. You will see some of my exercises in the repository.
 
-- 💞️ I’m looking to collaborate on R or python studio projects. 
+- 💞️ I’m looking to collaborate on R or python  projects. 
 
 - 📫 How to reach me. Just send a Twitt to: @santonlar
 
