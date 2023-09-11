@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## ACADEMIC BACKGROUND
 
-### MSc. in BUSINESS INTELLIGENCE
+### MU. in BUSINESS INTELLIGENCE
 
 oct 2019 - oct 2021UNIR, LOGROÑO
 
