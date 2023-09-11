@@ -1,6 +1,6 @@
 - 👋 Hi, This is @SANTONLAR
 
-- 👀 I’m interested in SQL, Matlab, R Studio; Github; Machine learning tips.
+- 👀 I’m interested in SQL, Matlab, R Studio, python; Github; Machine learning tips.
 
 - 🌱 I’m currently learning python. You will see some of my exercises in the repository.
 
