@@ -74,8 +74,8 @@ The master was my first contact with a programming language. I keep learning and
 | Command | Description |
 | --- | --- |
 | <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> |[KAGGLE ](https://www.kaggle.com/)|
-| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> |[[KEEL ](https://sci2s.ugr.es/keel/datasets.php)]|
-| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> |[[[UCI](https://archive.ics.uci.edu/)]]|
+| <img src="> |[[KEEL ](https://sci2s.ugr.es/keel/datasets.php)]|
+| <img src="> |[[[UCI](https://archive.ics.uci.edu/)]]|
 
 ### MACHINE LEARNING& DATA SCIENCE IN PYTHON
 
