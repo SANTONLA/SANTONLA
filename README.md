@@ -82,7 +82,7 @@ The master was my first contact with a programming language. I keep learning and
 | <img src="> |[[KEEL ](https://sci2s.ugr.es/keel/datasets.php)]|
 | <img src="> |[[[UCI](https://archive.ics.uci.edu/)]]|
 | <img src="> |[[[[CODALAB](https://competitions.codalab.org/)]]]|
-| <img src="https://github.com/SANTONLA/BADGES/blob/main/DRIVENDATA_LOGO.jpeg/>)"> |[[[[DRIVENDATA](https://www.drivendata.org/)]]]|
+| <img src="[https://github.com/SANTONLA/BADGES/blob/main/DRIVENDATA_LOGO.jpeg/](https://github.com/SANTONLA/BADGES/blob/main/DRIVENDATA_LOGO.jpeg/>)"> |[[[[DRIVENDATA](https://www.drivendata.org/)]]]|
 
 ### MACHINE LEARNING& DATA SCIENCE IN PYTHON
 
