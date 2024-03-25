@@ -8,8 +8,11 @@
 
 📫 ¿Cómo puedes contactarme? ¡Es sencillo! Solo envía un tweet a: @santonlar 🐦
 
-¡Espero que este texto combinado sea lo que estás buscando! Si deseas hacer algún ajuste o agregar más detalles, no dudes en decírmelo.
+🌐 También puedes encontrarme en otras plataformas:
 
+Instagram: [Tu usuario de Instagram]
+LinkedIn: [Tu perfil de LinkedIn]
+GitHub: [Tu perfil de GitHub]
 <!---it
 SANTONLA/SANTONLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
