@@ -66,14 +66,16 @@ The master was my first contact with a programming language. I keep learning and
 ### DATA VISUALIZATION
 | Command | Description |
 | --- | --- |
-|<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>| POWER BI|
+|<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>| [[[POWER BI](https://n9.cl/q30al)]
 
 
 
 ### INTERESTING LINKS
 | Command | Description |
 | --- | --- |
-| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> |KAGGLE |
+| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> |[KAGGLE ](https://www.kaggle.com/)|
+| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> |[[KEEL ](https://sci2s.ugr.es/keel/datasets.php)]|
+| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> |[[[UCI](https://archive.ics.uci.edu/)]]|
 
 ### MACHINE LEARNING& DATA SCIENCE IN PYTHON
 
