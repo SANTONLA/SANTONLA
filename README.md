@@ -11,7 +11,7 @@
 🌐 También puedes encontrarme en otras plataformas:
 
 Instagram: [Tu usuario de Instagram]
-LinkedIn: [Tu perfil de LinkedIn]
+LinkedIn: [www.linkedin.com/in/santonla]
 GitHub: [Tu perfil de GitHub]
 <!---it
 SANTONLA/SANTONLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
