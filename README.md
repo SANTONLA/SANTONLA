@@ -1,12 +1,14 @@
-- 👋 Hi, This is @SANTONLAR
+👋 ¡Hola! Soy @SANTONLAR.
 
-- 👀 I’m interested in SQL, Matlab, R Studio, python; Github; Machine learning tips.
+🔍 Me interesa SQL, Matlab, R Studio, Python y Github. Además, ¡soy un entusiasta del aprendizaje automático! 😊 También estoy interesado en el desarrollo web, especialmente en HTML, CSS y JavaScript. 💻
 
-- 🌱 I’m currently learning python. You will see some of my exercises in the repository.
+🌱 Actualmente estoy enfocado en perfeccionar mis habilidades en Python. ¡Puedes ver algunos de mis ejercicios en mi repositorio! 🐍 Me apasiona el análisis de datos y la visualización de información, utilizando herramientas como Tableau o Power BI. 📊
 
-- 💞️ I’m looking to collaborate on R or python  projects. 
+💞️ Estoy buscando colaborar en proyectos tanto en R como en Python. Además de aprender, me encanta compartir conocimientos y ayudar a otros a crecer en su camino hacia la programación y el análisis de datos. ¡Si necesitas ayuda o tienes alguna pregunta, no dudes en contactarme! 👨‍💻
 
-- 📫 How to reach me. Just send a Twitt to: @santonlar
+📫 ¿Cómo puedes contactarme? ¡Es sencillo! Solo envía un tweet a: @santonlar 🐦
+
+¡Espero que este texto combinado sea lo que estás buscando! Si deseas hacer algún ajuste o agregar más detalles, no dudes en decírmelo.
 
 <!---it
 SANTONLA/SANTONLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
