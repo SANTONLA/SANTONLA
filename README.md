@@ -60,7 +60,7 @@ The master was my first contact with a programming language. I keep learning and
 | --- | --- |
 |<img src="https://github.com/SANTONLA/BADGES/blob/main/classification-algorithm-in-machine-learning.png"/>|<[03_practica_linear_regression.ipynb](https://github.com/SANTONLA/ML-REGRESION-CLASSIFICATION)>|CLASSIFICATION
 |<img src="https://github.com/SANTONLA/BADGES/blob/main/regresion%20lineal_imagen.png"/>|<https://github.com/SANTONLA/ML-REGRESION-CLASSIFICATION/blob/main/02_linear_regression.ipynb> |REGRESSION|
-|<img src="https://github.com/SANTONLA/BADGES/blob/main/hierarchical%20clustering.png"/>| CLUSTERING |
+|<img src="https://github.com/SANTONLA/BADGES/blob/main/hierarchical%20clustering.png"/>|https://github.com/SANTONLA/ARBOLES-DE-DECISION |ARBOLES DE DECISION
 
 
 ### DATA VISUALIZATION
