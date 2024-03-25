@@ -10,7 +10,7 @@
 
 🌐 También puedes encontrarme en otras plataformas:
 
-Instagram: [Tu usuario de Instagram]
+x: [@AntnSilvia]
 LinkedIn: [www.linkedin.com/in/santonla]
 GitHub: [Tu perfil de GitHub]
 <!---it
