@@ -10,8 +10,6 @@
 
 🌐 También puedes encontrarme en otras plataformas:
 
-x: [@AntnSilvia]|
-
 LinkedIn: [www.linkedin.com/in/santonla]|
 
 GitHub: [[Tu perfil de GitHub](https://github.com/SANTONLA)]|
