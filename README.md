@@ -80,7 +80,7 @@ The master was my first contact with a programming language. I keep learning and
 | --- | --- |
 | <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> |[KAGGLE ](https://www.kaggle.com/)|
 | <img src="> |[[KEEL ](https://sci2s.ugr.es/keel/datasets.php)]|
-| <img src="> |[[[UCI](https://archive.ics.uci.edu/)]]|
+| <img src="https://github.com/SANTONLA/BADGES/blob/main/UCI_IRVINE_LOGO.png"/> |[[[UCI](https://archive.ics.uci.edu/)]]|
 | <img src="> |[[[[CODALAB](https://competitions.codalab.org/)]]]|
 | <img src="https://github.com/SANTONLA/BADGES/blob/main/DRIVENDATA_LOGO.jpeg"/> |[[[[DRIVENDATA](https://www.drivendata.org/)]]]|
 
