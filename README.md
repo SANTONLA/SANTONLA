@@ -1,6 +1,6 @@
 👋 ¡Hola! Soy @SANTONLAR.
 
-🔍 Me interesa SQL, Matlab, R Studio, Python y Github. Además, ¡soy un entusiasta del aprendizaje automático! 😊 También estoy interesada en el desarrollo web, especialmente en HTML, CSS y JavaScript. 💻
+🔍 Me interesa SQL, Matlab, R Studio, Python y Github. Además, ¡soy una entusiasta del aprendizaje automático! 😊 También estoy interesada en el desarrollo web, especialmente en HTML, CSS y JavaScript. 💻
 
 🌱 Actualmente estoy enfocada en perfeccionar mis habilidades en Python. ¡Puedes ver algunos de mis ejercicios en mi repositorio! 🐍 Me apasiona el análisis de datos y la visualización de información, utilizando herramientas como Tableau o Power BI. 📊
 
