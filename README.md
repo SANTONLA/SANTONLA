@@ -56,17 +56,17 @@ The master was my first contact with a programming language. I keep learning and
 | 📊 | Statistics |
 | 📚 | Calculus|
 | 👨‍💻| Probability |
-### MY FAVOURTIE PROGRAMMING LANGUAGES
+### MY FAVOURITE PROGRAMMING LANGUAGES
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)" height="40" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40" alt="typescript logo"  />
   <img width="12" />
  
  
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg](https://github.com/SANTONLA/BADGES/blob/main/matlab.jpg)" height="40" alt="storybook logo"  />
+  <img src="https://github.com/SANTONLA/BADGES/blob/main/matlab.jpg" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
