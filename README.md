@@ -74,10 +74,10 @@ The master was my first contact with a programming language. I keep learning and
 ### MY FAVOURTIE PLATFORMS
 ###
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://github.com/SANTONLA/BADGES/blob/main/github.png)" height="40" alt="react logo"  />
+<img src="https://github.com/SANTONLA/BADGES/blob/main/github.png" height="40" alt="react logo"  />
   <img width="12" />
   
-<img src=["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)" height="40" alt="nextjs logo"  />
+<img src=https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="40" alt="nextjs logo"  />
   <img width="12" />
 
 ### DATA ANALYSIS
