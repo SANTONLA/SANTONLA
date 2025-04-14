@@ -113,22 +113,17 @@ The master was my first contact with a programming language. I keep learning and
 <h2 align="left">Interesting links</h2>
 
 ###
-
-
 <div align="left">
  
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg](https://sci2s.ugr.es/keel/datasets.php)" height="40" alt="typescript logo"  />
+  <img src="https://sci2s.ugr.es/keel/datasets.php" height="40" alt="Keel logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://github.com/SANTONLA/BADGES/blob/main/UCI_IRVINE_LOGO.png)" height="40" alt="react logo"  />
+  <img src=https://github.com/SANTONLA/BADGES/blob/main/UCI_IRVINE_LOGO.png" height="40" alt="UCI_Irvine logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg](https://github.com/SANTONLA/BADGES/blob/main/codalab-logo.png)" height="40" alt="nextjs logo"  />
+  <img src="https://github.com/SANTONLA/BADGES/blob/main/codalab-logo.png" height="40" alt="Codalab logo"  />
   <img width="12" />
-  <img src="| <img src="https://github.com/SANTONLA/BADGES/blob/main/DRIVENDATA_LOGO.jpeg"/> |[[[[DRIVENDATA](https://www.drivendata.org/)]]]|" height="40" alt="storybook logo"  />
+  <img src="https://github.com/SANTONLA/BADGES/blob/main/DRIVENDATA_LOGO.jpeg" height="40" alt="Drivendata logo"  />
   <img width="12" />
  
-### MACHINE LEARNING& DATA SCIENCE IN PYTHON
-
-
 
 ## GITHUB STATS
 
