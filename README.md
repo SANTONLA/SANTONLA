@@ -48,15 +48,10 @@ Master Thesis: Optimization of the profit and loss account through quantitative 
 
 The master was my first contact with a programming language. I keep learning and improving the different machine learning algorithms.
 
-## BI & DATA SCIENCE SKILLS
+## COMPETENCIAS EN BI, DATA ANALYTICS Y DATASCIENCE
 
-### MATHEMATICS
-| Command | Description |
-| --- | --- |
-| 📊 | Statistics |
-| 📚 | Calculus|
-| 👨‍💻| Probability |
-### MY FAVOURITE PROGRAMMING LANGUAGES
+
+### MIS PROGRAMAS DE PROGRAMACIÓN FAVORITOS
 ###
 
 <div align="left">
@@ -69,7 +64,7 @@ The master was my first contact with a programming language. I keep learning and
   <img src="https://github.com/SANTONLA/devicon/blob/master/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   
-### MY FAVOURTIE PLATFORMS
+### MIS PLATAFORMAS FAVORITAS
 ###
 
 <img src="https://github.com/SANTONLA/BADGES/blob/main/github.png" height="40" alt="react logo"  />
@@ -81,13 +76,20 @@ The master was my first contact with a programming language. I keep learning and
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="40" alt="nextjs logo"  />
   <img width="12" />
   
-### DATA ANALYSIS
-| Command | Description |
-| --- | --- |
-|<img src="https://github.com/SANTONLA/BADGES/blob/main/data%20wrangling.png"/>|DATA WRANGLING|
-|<img src="https://github.com/SANTONLA/BADGES/blob/main/EDA%20ANALYSIS.jpg"/>| EDA|
+### CIENCIA DE DATOS Y ANÁLISIS
+###
+
+<img src="https://github.com/SANTONLA/devicon/blob/master/icons/numpy/numpy-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  
+<img src="https://github.com/SANTONLA/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="40" alt="nextjs logo"  />
+  <img width="12" />
 
 
+  
 ### MACHINE LEARNING ALGORITHMS
 | Command | Description |
 | --- | --- |
