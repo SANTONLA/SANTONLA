@@ -92,17 +92,18 @@ The master was my first contact with a programming language. I keep learning and
   
 ### MACHINE LEARNING ALGORITHMS
 
-###
+### EDA ANALISIS
 
+<img src="https://github.com/SANTONLA/BADGES/blob/main/EDA%20ANALYSIS.jpg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  
+### CLASIFICACION
 <img src="https://github.com/SANTONLA/BADGES/blob/main/classification-algorithm-in-machine-learning.png" height="40" alt="nextjs logo"  />
   <img width="12" />
 
-<img src="https://github.com/SANTONLA/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" alt="nextjs logo"  />
+<img src="https://github.com/SANTONLA/BADGES/blob/main/hierarchical%20clustering.png" height="40" alt="nextjs logo"  />
   <img width="12" />
   
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="40" alt="nextjs logo"  />
-  <img width="12" />
-
 
 ###
 
