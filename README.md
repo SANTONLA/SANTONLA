@@ -64,11 +64,9 @@ The master was my first contact with a programming language. I keep learning and
   <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40" alt="typescript logo"  />
   <img width="12" />
- 
- 
-  <img src="https://github.com/SANTONLA/BADGES/blob/main/matlab.jpg" height="40" alt="storybook logo"  />
+   <img src="https://github.com/SANTONLA/BADGES/blob/main/matlab.jpg" height="40" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://github.com/SANTONLA/devicon/blob/master/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   
 ### MY FAVOURTIE PLATFORMS
