@@ -118,7 +118,7 @@ The master was my first contact with a programming language. I keep learning and
 ###
 <div align="left">
  
-  <img src="https://sci2s.ugr.es/keel/datasets.php" height="40" alt="Keel logo"  />
+  <img src="https://github.com/SANTONLA/BADGES/blob/main/keellogo.jpg" height="40" alt="Keel logo"  />
   <img width="12" />
   <img src="https://github.com/SANTONLA/BADGES/blob/main/UCI_IRVINE_LOGO.png" height="40" alt="UCI_Irvine logo"  />
   <img width="12" />
