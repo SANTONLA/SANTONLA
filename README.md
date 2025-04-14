@@ -91,13 +91,18 @@ The master was my first contact with a programming language. I keep learning and
 
   
 ### MACHINE LEARNING ALGORITHMS
-| Command | Description |
-| --- | --- |
-|<img src="https://github.com/SANTONLA/BADGES/blob/main/classification-algorithm-in-machine-learning.png"/>|<[03_practica_linear_regression.ipynb](https://github.com/SANTONLA/ML-REGRESION-CLASSIFICATION)>|CLASSIFICATION
-|<img src="https://github.com/SANTONLA/BADGES/blob/main/regresion%20lineal_imagen.png"/>|<https://github.com/SANTONLA/ML-REGRESION-CLASSIFICATION/blob/main/02_linear_regression.ipynb> |REGRESSION|
-|<img src="https://github.com/SANTONLA/BADGES/blob/main/hierarchical%20clustering.png"/>|https://github.com/SANTONLA/ARBOLES-DE-DECISION |ARBOLES DE DECISION
 
-<h2 align="left">I code with</h2>
+###
+
+<img src="https://github.com/SANTONLA/BADGES/blob/main/classification-algorithm-in-machine-learning.png" height="40" alt="nextjs logo"  />
+  <img width="12" />
+
+<img src="https://github.com/SANTONLA/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="40" alt="nextjs logo"  />
+  <img width="12" />
+
 
 ###
 
