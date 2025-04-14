@@ -98,6 +98,23 @@ The master was my first contact with a programming language. I keep learning and
 
 ### INTERESTING LINKS
 | Command | Description |
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg](https://sci2s.ugr.es/keel/datasets.php)" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://github.com/SANTONLA/BADGES/blob/main/UCI_IRVINE_LOGO.png)" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg](https://github.com/SANTONLA/BADGES/blob/main/codalab-logo.png)" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="| <img src="https://github.com/SANTONLA/BADGES/blob/main/DRIVENDATA_LOGO.jpeg"/> |[[[[DRIVENDATA](https://www.drivendata.org/)]]]|" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 | --- | --- |
 | <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> |[KAGGLE ](https://www.kaggle.com/)|
 | <img src="> |[[KEEL ](https://sci2s.ugr.es/keel/datasets.php)]|
