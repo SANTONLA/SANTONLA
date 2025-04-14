@@ -130,4 +130,9 @@ The master was my first contact with a programming language. I keep learning and
 
 ## GITHUB STATS
 
+###
+
+<img src="https://raw.githubusercontent.com/santonla/santonla/output/snake.svg" alt="Snake animation" />
+
+###
 
