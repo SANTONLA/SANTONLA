@@ -90,18 +90,21 @@ The master was my first contact with a programming language. I keep learning and
 </div>
 
 ### DATA VISUALIZATION
-| Command | Description |
-| --- | --- |
+
+
 |<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>| [[[POWER BI](https://n9.cl/q30al)]
 
 
 
 ### INTERESTING LINKS
-| Command | Description |
+
+<h2 align="left">Interesting links</h2>
+
+###
+
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/" height="40" alt="javascript logo"  />
-  <img width="12" />
+ 
   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg](https://sci2s.ugr.es/keel/datasets.php)" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://github.com/SANTONLA/BADGES/blob/main/UCI_IRVINE_LOGO.png)" height="40" alt="react logo"  />
@@ -110,18 +113,7 @@ The master was my first contact with a programming language. I keep learning and
   <img width="12" />
   <img src="| <img src="https://github.com/SANTONLA/BADGES/blob/main/DRIVENDATA_LOGO.jpeg"/> |[[[[DRIVENDATA](https://www.drivendata.org/)]]]|" height="40" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-| --- | --- |
-| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> |[KAGGLE ](https://www.kaggle.com/)|
-| <img src="> |[[KEEL ](https://sci2s.ugr.es/keel/datasets.php)]|
-| <img src="https://github.com/SANTONLA/BADGES/blob/main/UCI_IRVINE_LOGO.png"/> |[[[UCI](https://archive.ics.uci.edu/)]]|
-| <img src="https://github.com/SANTONLA/BADGES/blob/main/codalab-logo.png"/> |[[[[CODALAB](https://competitions.codalab.org/)]]]|
-| <img src="https://github.com/SANTONLA/BADGES/blob/main/DRIVENDATA_LOGO.jpeg"/> |[[[[DRIVENDATA](https://www.drivendata.org/)]]]|
-
+ 
 ### MACHINE LEARNING& DATA SCIENCE IN PYTHON
 
 
