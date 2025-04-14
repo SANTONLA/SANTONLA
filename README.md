@@ -127,4 +127,4 @@ The master was my first contact with a programming language. I keep learning and
 
 ## GITHUB STATS
 
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
