@@ -80,9 +80,9 @@ The master was my first contact with a programming language. I keep learning and
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="40" alt="nextjs logo"  />
   <img width="12" />
   
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"height="40" alt="nextjs logo"  />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="40" alt="nextjs logo"  />
   <img width="12" />
-
+  
 ### DATA ANALYSIS
 | Command | Description |
 | --- | --- |
