@@ -151,7 +151,8 @@ The master was my first contact with a programming language. I keep learning and
 
 ###
 
-<img src="https://github.com/SANTONLA/output/snake.svg" alt="Snake animation"
+ <img src="https://github.com/SANTONLA/output/snake.svg"  alt="Snake animation"  />
+ 
 
 ###
 Puedes crear tu Readme en esta página: https://profile-readme-generator.com/
