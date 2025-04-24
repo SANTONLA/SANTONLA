@@ -104,47 +104,23 @@ The master was my first contact with a programming language. I keep learning and
 ### MACHINE LEARNING ALGORITHMS
 
 
+RActualmente estoy trabajando, repasando y depurando los 7 modelos de Machine Learning más comunes, que son:
+
 Regresión Lineal
-
-Útil para predecir valores continuos.
-
-Ejemplo: Predecir el precio de una casa según sus características.
 
 Regresión Logística
 
-Usado para clasificación binaria.
-
-Ejemplo: Determinar si un correo es spam o no.
-
 Árboles de Decisión (Decision Trees)
-
-Modelo interpretativo que divide los datos en ramas según decisiones.
-
-Ejemplo: Clasificar tipos de clientes.
 
 Bosques Aleatorios (Random Forest)
 
-Conjunto de árboles de decisión para mejorar precisión.
-
-Ejemplo: Detección de fraude.
-
 Máquinas de Vectores de Soporte (SVM)
 
-Separan clases usando hiperplanos óptimos.
-
-Ejemplo: Reconocimiento de imágenes o texto.
-
-K-Vecinos más Cercanos (K-Nearest Neighbors, KNN)
-
-Clasifica según la cercanía a otros datos.
-
-Ejemplo: Recomendaciones personalizadas.
+K-Vecinos más Cercanos (KNN)
 
 Redes Neuronales Artificiales (ANN / Deep Learning)
 
-Inspiradas en el cerebro humano, ideales para grandes volúmenes de datos.
 
-Ejemplo: Reconocimiento de voz, visión por computadora.
 
 
 ### INTERESTING LINKS
