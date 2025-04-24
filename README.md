@@ -103,20 +103,48 @@ The master was my first contact with a programming language. I keep learning and
   
 ### MACHINE LEARNING ALGORITHMS
 
-### EDA ANALISIS
 
-<img src="https://github.com/SANTONLA/BADGES/blob/main/EDA%20ANALYSIS.jpg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  
-### CLASIFICACION
-<img src="https://github.com/SANTONLA/BADGES/blob/main/classification-algorithm-in-machine-learning.png" height="40" alt="nextjs logo"  />
-  <img width="12" />
+Regresión Lineal
 
-<img src="https://github.com/SANTONLA/BADGES/blob/main/hierarchical%20clustering.png" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  
+Útil para predecir valores continuos.
 
-###
+Ejemplo: Predecir el precio de una casa según sus características.
+
+Regresión Logística
+
+Usado para clasificación binaria.
+
+Ejemplo: Determinar si un correo es spam o no.
+
+Árboles de Decisión (Decision Trees)
+
+Modelo interpretativo que divide los datos en ramas según decisiones.
+
+Ejemplo: Clasificar tipos de clientes.
+
+Bosques Aleatorios (Random Forest)
+
+Conjunto de árboles de decisión para mejorar precisión.
+
+Ejemplo: Detección de fraude.
+
+Máquinas de Vectores de Soporte (SVM)
+
+Separan clases usando hiperplanos óptimos.
+
+Ejemplo: Reconocimiento de imágenes o texto.
+
+K-Vecinos más Cercanos (K-Nearest Neighbors, KNN)
+
+Clasifica según la cercanía a otros datos.
+
+Ejemplo: Recomendaciones personalizadas.
+
+Redes Neuronales Artificiales (ANN / Deep Learning)
+
+Inspiradas en el cerebro humano, ideales para grandes volúmenes de datos.
+
+Ejemplo: Reconocimiento de voz, visión por computadora.
 
 
 ### INTERESTING LINKS
