@@ -104,7 +104,7 @@ The master was my first contact with a programming language. I keep learning and
 ### MACHINE LEARNING ALGORITHMS
 
 
-RActualmente estoy trabajando, repasando y depurando los 7 modelos de Machine Learning más comunes, que son:
+Actualmente estoy trabajando, repasando y depurando los 7 modelos de Machine Learning más comunes, que son:
 
 Regresión Lineal
 
