@@ -66,28 +66,28 @@ The master was my first contact with a programming language. I keep learning and
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="35" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="35" alt="typescript logo"  />
   <img width="12" />
-   <img src="https://github.com/SANTONLA/BADGES/blob/main/matlab.jpg" height="40" alt="storybook logo"  />
+   <img src="https://github.com/SANTONLA/BADGES/blob/main/matlab.jpg" height="35" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://github.com/SANTONLA/devicon/blob/master/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://github.com/SANTONLA/devicon/blob/master/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="12" />
   
 ### MIS PLATAFORMAS FAVORITAS
 ###
 
-<img src="https://github.com/SANTONLA/BADGES/blob/main/github.png" height="40" alt="react logo"  />
+<img src="https://github.com/SANTONLA/BADGES/blob/main/github.png" height="35" alt="react logo"  />
   <img width="12" />
   
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="40" alt="nextjs logo"  />
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="35" alt="nextjs logo"  />
   <img width="12" />
   
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="40" alt="nextjs logo"  />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="35" alt="nextjs logo"  />
   <img width="12" />
 
-<img src="https://github.com/SANTONLA/devicon/blob/master/icons/canva/canva-original.svg" height="40" alt="nextjs logo"  />
+<img src="https://github.com/SANTONLA/devicon/blob/master/icons/canva/canva-original.svg" height="35" alt="nextjs logo"  />
   <img width="12" />
 
 
@@ -95,13 +95,13 @@ The master was my first contact with a programming language. I keep learning and
 ### CIENCIA DE DATOS Y ANÁLISIS
 ###
 
-<img src="https://github.com/SANTONLA/devicon/blob/master/icons/numpy/numpy-original.svg" height="40" alt="react logo"  />
+<img src="https://github.com/SANTONLA/devicon/blob/master/icons/numpy/numpy-original.svg" height="35" alt="react logo"  />
   <img width="12" />
   
-<img src="https://github.com/SANTONLA/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" alt="nextjs logo"  />
+<img src="https://github.com/SANTONLA/devicon/blob/master/icons/pandas/pandas-original.svg" height="35" alt="nextjs logo"  />
   <img width="12" />
   
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="40" alt="nextjs logo"  />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="35" alt="nextjs logo"  />
   <img width="12" />
 
 
@@ -135,11 +135,11 @@ Redes Neuronales Artificiales (ANN / Deep Learning)
 ###
 <div align="left">
  
-  <img src="https://github.com/SANTONLA/BADGES/blob/main/keellogo.jpg" height="40" alt="Keel logo"  />
+  <img src="https://github.com/SANTONLA/BADGES/blob/main/keellogo.jpg" height="35" alt="Keel logo"  />
   <img width="12" />
-  <img src="https://github.com/SANTONLA/BADGES/blob/main/UCI_IRVINE_LOGO.png" height="40" alt="UCI_Irvine logo"  />
+  <img src="https://github.com/SANTONLA/BADGES/blob/main/UCI_IRVINE_LOGO.png" height="35" alt="UCI_Irvine logo"  />
   <img width="12" />
-  <img src="https://github.com/SANTONLA/BADGES/blob/main/DRIVENDATA_LOGO.jpeg" height="40" alt="Drivendata logo"  />
+  <img src="https://github.com/SANTONLA/BADGES/blob/main/DRIVENDATA_LOGO.jpeg" height="35" alt="Drivendata logo"  />
   <img width="12" />
  
 
