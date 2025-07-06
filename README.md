@@ -72,7 +72,7 @@ The master was my first contact with a programming language. I keep learning and
   <img width="12" />
    <img src="https://github.com/SANTONLA/BADGES/blob/main/matlab.jpg" height="35" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://github.com/SANTONLA/devicon/blob/master/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img src="https://github.com/SANTONLA/devicon/blob/master/icons/python/python-original.svg" height="35" width="35" alt="python logo" />
   <img width="12" />
   
 ### MIS PLATAFORMAS FAVORITAS
@@ -87,8 +87,7 @@ The master was my first contact with a programming language. I keep learning and
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="35" alt="nextjs logo"  />
   <img width="12" />
 
-<img src="https://github.com/SANTONLA/devicon/blob/master/icons/canva/canva-original.svg" height="35" alt="nextjs logo"  />
-  <img width="12" />
+<img src="https://github.com/SANTONLA/devicon/blob/master/icons/canva/canva-original.svg" height="35" width="35" alt="canva logo" />
 
 
   
