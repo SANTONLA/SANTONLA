@@ -7,7 +7,7 @@ HOLA VISITANTE:
 
 
 👋 ¡Hola! Soy @SANTONLAR.
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="75" src="https://i.imgflip.com/65efzo.gif"  />
 
 🔍 Me interesa SQL, Matlab, R Studio, Python y Github. Además, ¡soy una entusiasta del aprendizaje automático! 😊 También estoy interesada en el desarrollo web, especialmente en HTML, CSS y JavaScript. 💻
 
