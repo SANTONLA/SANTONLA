@@ -81,10 +81,10 @@ The master was my first contact with a programming language. I keep learning and
 <img src="https://github.com/SANTONLA/BADGES/blob/main/github.png" height="45" width="45" alt="Github"  />
   <img width="12" />
   
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="45" width="45" alt="nextjs logo"  />
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="45" width="45" alt="SAP"  />
   <img width="12" />
   
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="45" width="45"alt="Power BI"  />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="45" width="45" alt="Power BI"  />
   <img width="12" />
 
 <img src="https://github.com/SANTONLA/devicon/blob/master/icons/canva/canva-original.svg" height="45" width="45" alt="canva logo" />
