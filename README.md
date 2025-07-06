@@ -78,7 +78,7 @@ The master was my first contact with a programming language. I keep learning and
 ### MIS PLATAFORMAS FAVORITAS
 ###
 
-<img src="https://github.com/SANTONLA/BADGES/blob/main/github.png" height="45" width="45"alt="react logo"  />
+<img src="https://github.com/SANTONLA/BADGES/blob/main/github.png" height="45" width="45" alt="Github"  />
   <img width="12" />
   
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="45" width="45" alt="nextjs logo"  />
