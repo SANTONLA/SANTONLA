@@ -42,38 +42,50 @@ You can click the Preview link to take a look at your changes.
 --->
 # BIENVENIDO A MI PÁGINA DE GITHUB
 
-🎓 Formación Académica
-Máster Universitario en Business Intelligence
-UNIR – Universidad Internacional de La Rioja, Logroño
-Oct 2019 – Oct 2021
+# 👨‍🎓 Formación Académica
 
-Grado en Administración y Dirección de Empresas
-UNIR – Universidad Internacional de La Rioja, Logroño
-Sep 2014 – Oct 2018
+### 🎓 Máster Universitario en Business Intelligence  
+**UNIR – Universidad Internacional de La Rioja, Logroño**  
+*Octubre 2019 – Octubre 2021*
 
-💻 Experiencia con R y Aprendizaje Automático
-Trabajo de Fin de Máster:
-“Optimización de la cuenta de pérdidas y ganancias mediante técnicas cuantitativas y machine learning desde la perspectiva del Business Intelligence.”
-Este proyecto representó mi primer contacto con un lenguaje de programación (R), centrado en la aplicación de técnicas de análisis de datos y modelos predictivos para mejorar la toma de decisiones empresariales.
+### 🎓 Grado en Administración y Dirección de Empresas  
+**UNIR – Universidad Internacional de La Rioja, Logroño**  
+*Septiembre 2014 – Octubre 2018*
 
-Desde entonces, he continuado aprendiendo y perfeccionando algoritmos de machine learning, especialmente orientados al análisis de datos financieros y de negocio.
+---
 
-📊 Competencias en BI, Data Analytics y Data Science
-Business Intelligence: Diseño de dashboards, integración de fuentes de datos, indicadores clave de negocio (KPIs).
+# 💻 Experiencia con R y Aprendizaje Automático
 
-Análisis de Datos: Preparación, limpieza y transformación de datos para su análisis; identificación de patrones y tendencias.
+**Trabajo de Fin de Máster:**  
+*“Optimización de la cuenta de pérdidas y ganancias mediante técnicas cuantitativas y machine learning desde la perspectiva del Business Intelligence.”*
 
-Machine Learning: Aplicación de algoritmos supervisados y no supervisados (clasificación, regresión, clustering).
+Este proyecto representó mi primer contacto con un lenguaje de programación (R), enfocado en el análisis de datos y el modelado predictivo para mejorar la toma de decisiones empresariales.
 
-Herramientas y Lenguajes:
+Desde entonces, he seguido aprendiendo y perfeccionando diferentes algoritmos de machine learning, especialmente orientados al análisis de datos financieros y de negocio.
 
-Lenguaje R (modelado, visualización, análisis estadístico)
+---
 
-Excel avanzado y Power BI
+# 📊 Competencias en Business Intelligence, Data Analytics y Data Science
 
-Conocimientos básicos en SQL y Python
+### 🧠 Business Intelligence
+- Diseño y desarrollo de dashboards
+- Integración de fuentes de datos
+- Indicadores clave de rendimiento (KPIs)
 
-Toma de decisiones basada en datos: Capacidad para convertir información en conocimiento accionable.
+### 📈 Análisis de Datos
+- Limpieza, transformación y preparación de datos
+- Identificación de patrones y tendencias
+
+### 🤖 Machine Learning
+- Algoritmos supervisados y no supervisados (clasificación, regresión, clustering)
+
+### 🛠 Herramientas y Tecnologías
+- **R** (modelado estadístico, visualización, análisis)
+- **Excel avanzado** y **Power BI**
+- Conocimientos básicos de **SQL** y **Python**
+
+### 📌 Toma de decisiones basada en datos
+- Capacidad para convertir datos en conocimiento accionable
 
 
 ### MIS PROGRAMAS DE PROGRAMACIÓN FAVORITOS
