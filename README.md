@@ -81,8 +81,9 @@ Desde entonces, he seguido aprendiendo y perfeccionando diferentes algoritmos de
 
 ### 🛠 Herramientas y Tecnologías
 - **R** (modelado estadístico, visualización, análisis)
+- **Python avanzado** (análisis de datos, machine learning, automatización)
 - **Excel avanzado** y **Power BI**
-- Conocimientos básicos de **SQL** y **Python**
+- Conocimientos avanzados de **SQL**
 
 ### 📌 Toma de decisiones basada en datos
 - Capacidad para convertir datos en conocimiento accionable
@@ -131,25 +132,34 @@ Desde entonces, he seguido aprendiendo y perfeccionando diferentes algoritmos de
 
 
   
-### MACHINE LEARNING ALGORITHMS
+### 🤖 Algoritmos de Machine Learning
 
+He realizado un curso especializado en **Machine Learning y Python** en la **Universidad Pública de Navarra (UPNA)**, lo cual me permitió profundizar en los fundamentos y la aplicación práctica de los algoritmos más relevantes en ciencia de datos.
 
-Actualmente estoy trabajando, repasando y depurando los 7 modelos de Machine Learning más comunes, que son:
+Actualmente estoy trabajando, repasando y depurando los **7 modelos de Machine Learning más comunes**, con el objetivo de perfeccionar su implementación y comprensión. Estos algoritmos son:
 
-Regresión Lineal
+- 🔹 **Regresión Lineal**  
+  Predicción de valores continuos mediante relaciones lineales entre variables.
 
-Regresión Logística
+- 🔹 **Regresión Logística**  
+  Clasificación binaria y multiclase basada en probabilidades.
 
-Árboles de Decisión (Decision Trees)
+- 🔹 **Árboles de Decisión (Decision Trees)**  
+  Modelos interpretables utilizados tanto en clasificación como en regresión.
 
-Bosques Aleatorios (Random Forest)
+- 🔹 **Bosques Aleatorios (Random Forest)**  
+  Ensambles de árboles que mejoran precisión y reducen overfitting.
 
-Máquinas de Vectores de Soporte (SVM)
+- 🔹 **Máquinas de Vectores de Soporte (SVM)**  
+  Clasificación con separación óptima entre clases.
 
-K-Vecinos más Cercanos (KNN)
+- 🔹 **K-Vecinos más Cercanos (KNN)**  
+  Clasificación o regresión basada en la similitud con instancias cercanas.
 
-Redes Neuronales Artificiales (ANN / Deep Learning)
+- 🔹 **Redes Neuronales Artificiales (ANN / Deep Learning)**  
+  Modelos inspirados en el cerebro humano, útiles para tareas complejas como reconocimiento de patrones y procesamiento de lenguaje.
 
+📌 *Sigo perfeccionando la implementación y optimización de estos modelos para su aplicación en distintos contextos empresariales y financieros.*
 
 
 
