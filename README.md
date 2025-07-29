@@ -40,26 +40,40 @@ HOLA VISITANTE:
 SANTONLA/SANTONLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# WELCOME TO MY GITHUB PROFILE PAGE
+# BIENVENIDO A MI PÁGINA DE GITHUB
 
-## ACADEMIC BACKGROUND
+🎓 Formación Académica
+Máster Universitario en Business Intelligence
+UNIR – Universidad Internacional de La Rioja, Logroño
+Oct 2019 – Oct 2021
 
-### MU. in BUSINESS INTELLIGENCE
+Grado en Administración y Dirección de Empresas
+UNIR – Universidad Internacional de La Rioja, Logroño
+Sep 2014 – Oct 2018
 
-oct 2019 - oct 2021UNIR, LOGROÑO
+💻 Experiencia con R y Aprendizaje Automático
+Trabajo de Fin de Máster:
+“Optimización de la cuenta de pérdidas y ganancias mediante técnicas cuantitativas y machine learning desde la perspectiva del Business Intelligence.”
+Este proyecto representó mi primer contacto con un lenguaje de programación (R), centrado en la aplicación de técnicas de análisis de datos y modelos predictivos para mejorar la toma de decisiones empresariales.
 
-### GRADUATE'S DEGREE IN BUSINESS ADMINISTRATION AND MANAGEMENT
+Desde entonces, he continuado aprendiendo y perfeccionando algoritmos de machine learning, especialmente orientados al análisis de datos financieros y de negocio.
 
-sep 2014 - oct 2018 UNIR, LOGROÑO
+📊 Competencias en BI, Data Analytics y Data Science
+Business Intelligence: Diseño de dashboards, integración de fuentes de datos, indicadores clave de negocio (KPIs).
 
+Análisis de Datos: Preparación, limpieza y transformación de datos para su análisis; identificación de patrones y tendencias.
 
-## EXPERIENCE WITH R
+Machine Learning: Aplicación de algoritmos supervisados y no supervisados (clasificación, regresión, clustering).
 
-Master Thesis: Optimization of the profit and loss account through quantitative techniques and machine learning from the perspective of Business Intelligence.
+Herramientas y Lenguajes:
 
-The master was my first contact with a programming language. I keep learning and improving the different machine learning algorithms.
+Lenguaje R (modelado, visualización, análisis estadístico)
 
-## COMPETENCIAS EN BI, DATA ANALYTICS Y DATASCIENCE
+Excel avanzado y Power BI
+
+Conocimientos básicos en SQL y Python
+
+Toma de decisiones basada en datos: Capacidad para convertir información en conocimiento accionable.
 
 
 ### MIS PROGRAMAS DE PROGRAMACIÓN FAVORITOS
